@@ -1,0 +1,15 @@
+[package]
+name = "systemd_info"
+version = "1.0.0"
+authors = ["rep-nop <h13317136163@163.com>"]
+edition = "2021"
+description = "Obtain some system information through WMIC"
+repository = "https://github.com/spdrwcn/systemd_info"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+exclude = ["/.github/"]
+keywords = ["cpu name", "disk", "gpu", "ram", "serial_number"]
+
+
+[dependencies]
+
