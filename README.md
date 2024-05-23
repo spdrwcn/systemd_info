@@ -1,4 +1,4 @@
-# `mac_conditions`
+# `systemd_info`
 
 
 Supported platforms: Any version of Windows that supports WMIC.
@@ -24,4 +24,4 @@ fn main() {
 
 ## License
 
-`mac_conditions` is licensed under both MIT and Apache 2.0
+`systemd_info` is licensed under both MIT and Apache 2.0
